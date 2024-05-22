@@ -41,7 +41,7 @@ Modelling the price of houses through the model of multiple linear regression al
 - sklearn
 
 ## Acknowledgements
-This project was inspired by the Machine Learning 1 module Linear Regression submodule of ML C61 upGrad Course
+This project was inspired by the Machine Learning 2 module Advanced Linear Regression submodule of ML C61 upGrad Course
 
 
 ## Contact
